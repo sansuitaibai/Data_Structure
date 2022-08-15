@@ -5,3 +5,5 @@
 [02-动态数组](https://github.com/sansuitaibai/Data_Structure/tree/main/02%20%E5%8A%A8%E6%80%81%E6%95%B0%E7%BB%84)
 
 [03-8种链表](https://github.com/sansuitaibai/Data_Structure/tree/main/03%20%E9%93%BE%E8%A1%A8)
+
+[05 3种形式的队列](https://github.com/sansuitaibai/Data_Structure/tree/main/05%20%E9%98%9F%E5%88%97)
